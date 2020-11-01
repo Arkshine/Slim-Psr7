@@ -1,5 +1,5 @@
 {
-  "name": "slim/psr7",
+  "name": "arkshine/psr7",
   "type": "library",
   "description": "Strict PSR-7 implementation",
   "keywords": ["psr7","psr-7","http"],
